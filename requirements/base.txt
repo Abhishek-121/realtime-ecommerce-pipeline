@@ -1,0 +1,6 @@
+kafka-python
+faker
+pandas
+psycopg2-binary
+pyspark
+sqlalchemy
