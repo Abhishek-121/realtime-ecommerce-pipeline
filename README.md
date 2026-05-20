@@ -4,7 +4,7 @@ A real-time data pipeline for processing e-commerce events.
 
 ## Project Structure
 
-- `producer/` - Kafka producers for generating e-commerce events
+- `producer/` - Kafka producers for generating events
 - `consumer/` - Kafka consumers for processing events
 - `spark-streaming/` - Spark streaming jobs
 - `postgres/` - Database scripts and configurations
